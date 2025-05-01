@@ -1,7 +1,6 @@
 package fib
 
 import (
-  "fmt"
   "sync"
   "sort"
 )
